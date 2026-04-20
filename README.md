@@ -1,5 +1,11 @@
-## Hi there 👋
+## Peace be upon you!
 
+Hi there, 
+I am a student, currently I am doing M.Sc. in Theoretical Physics. Currently I am leraning HTML and CSS, so that I can build beautiful and interesting webpages. Also I have a little knowledge in Python. So, all my projects here will be the one that I experimented to learn, at least for now.
+
+
+
+P.S. I love capturing photos of nature around me.
 <!--
 **PieckSanCodes/PieckSanCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
